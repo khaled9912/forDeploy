@@ -61,8 +61,8 @@ const SignIn = () => {
           <div className="max-w-md w-full space-y-8">
             <div className=" text-center">
               <img
-                className="mx-auto h-24 w-auto"
-                src={require("../images/logo.png")}
+                className="mx-auto h-14 w-auto"
+                src={require("../images/perfectchem.png")}
                 alt="logo"
               />
               <h2 className="mt-1 font-semibold text-3xl text-gray-900 ">

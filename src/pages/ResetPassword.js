@@ -27,8 +27,8 @@ const ResetPassword = () => {
           <div className="max-w-md w-full space-y-8">
             <div>
               <img
-                className="mx-auto h-24 w-auto"
-                src={require("../images/logo.png")}
+                className="mx-auto h-12 w-auto"
+                src={require("../images/perfectchem.png")}
                 alt="logo"
               />
               <h2 className="mt-8 font-semibold  text-center text-3xl text-gray-900 mb-">

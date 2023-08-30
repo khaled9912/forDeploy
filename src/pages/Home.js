@@ -11,8 +11,8 @@ function Home() {
     <div className="grid place-items-center">
       <div className="text-center font-bold text-slate-600 px-7">
         <img
-          className="mx-auto w-auto h-60"
-          src={require("../images/logo.png")}
+          className="h-12"
+          src={require("../images/perfectchem.png")}
           alt="logo"
         />
         This is a phone number based authentication app built in React &

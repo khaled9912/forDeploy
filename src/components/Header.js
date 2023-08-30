@@ -22,9 +22,10 @@ function Header() {
             <div className="">
               <a href="/">
                 <img
-                  className="h-24 mt-3"
-                  src={require("../images/logo.png")}
+                  className="h-12"
+                  src={require("../images/perfectchem.png")}
                   alt="logo"
+                  height={"2px"}
                 />
               </a>
             </div>
